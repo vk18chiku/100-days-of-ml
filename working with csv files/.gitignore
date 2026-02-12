@@ -1,0 +1,9 @@
+# Exclude large CSV files
+IPL.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.DS_Store
