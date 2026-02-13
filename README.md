@@ -89,7 +89,7 @@ Each folder contains:
 - Code examples and visualizations
 
 ## Author
-**Uttam Mahato** - IIT Ranchi
+**Uttam Mahato** - IIIT Ranchi
 
 ## Last Updated
 February 13, 2026
